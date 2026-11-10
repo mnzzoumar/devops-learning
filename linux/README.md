@@ -9,3 +9,4 @@ Linux is common in development, server operations, containers and cloud environm
 | Filesystem | [Notes](file-system.md) | pwd, cat, paths |
 | Permissions | [Notes](permissions.md) | `chmod` |
 | Troubleshooting | [Lessons](troubleshooting.md) | Commands and error diagnosis |
+| Bandit | [Level journal](bandit/README.md) | Levels 0–20 |
