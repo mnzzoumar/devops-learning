@@ -33,3 +33,13 @@ ls                                            # List the contents of the directo
 
 Mission: Create a script that outputs the numbers 1 to 10, one number per line.
 
+#### Solution
+[View Bash Script](./1-10.sh)
+
+---
+
+### Level 3: Conditional Statements
+
+Mission: Write a script that checks if a file named hero.txt exists in the Arena directory. If it does, print Hero found!; otherwise, print Hero missing!.
+
+#### Solution
