@@ -54,3 +54,6 @@ Mission: Write a script that checks if a file named hero.txt exists in the Arena
 Mission: Create a script that copies all .txt files from the Arena directory to a new directory called Backup.
 
 #### Solution
+
+mkdir Backup                                   # Create a directory named Backup
+[View Bash Script](./party_backup.sh)
